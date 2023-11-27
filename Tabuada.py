@@ -3,7 +3,7 @@
 #apresentação
 # print('\n\t\t\t -- tabuada --\n')
 
-#neste projeto você conseguirá obter a tabuada dos números de 1 a 10
+#neste projeto você conseguirá obter a tabuada de todos os números multiplicados de 1 a 10
 
 #entradas
 
